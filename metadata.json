@@ -1,0 +1,6 @@
+{
+  "name": "A.K. Home Service",
+  "description": "Luxury concierge and premium home services including House Maid, Master Chef, and Elder Care in Ahmedabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
